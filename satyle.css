@@ -1,0 +1,18 @@
+
+.hero-text {
+  top:80%;
+  left: 20%;
+  color: white;
+  position: absolute;
+  justify-content: center;
+align-items: center;
+transform:translate(25%,-30%);
+
+}
+
+
+.pagination{
+justify-content: center;
+align-items: center;
+}
+
